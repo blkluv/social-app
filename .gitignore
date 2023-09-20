@@ -100,3 +100,4 @@ ios/
 
 # Firebase (Android) Google services
 google-services.json
+.vercel
